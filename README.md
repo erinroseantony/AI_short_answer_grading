@@ -36,13 +36,14 @@ NLP Model: Sentence-BERT (all-MiniLM-L6-v2)
 ML Libraries: Scikit-learn, Pandas
 Core Concepts: NLP, Semantic Similarity, Feature Engineering
 
-📂 Project Structure
+## 📂 Project Structure
+
 AI_Short_Answer_Grading/
-│
-├── app.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+
+- app.py (Main application file)
+- requirements.txt (Dependencies)
+- .gitignore (Ignored files)
+- README.md (Project documentation)
 
 🚀 How to Run the Project
 1️⃣ Clone the repository
