@@ -39,10 +39,10 @@ Core Concepts: NLP, Semantic Similarity, Feature Engineering
 📂 Project Structure
 AI_Short_Answer_Grading/
 │
-├── app.py                 # Main application file
-├── requirements.txt       # Dependencies
-├── .gitignore             # Ignored files
-└── README.md              # Project documentation
+├── app.py
+├── requirements.txt
+├── .gitignore
+└── README.md
 
 🚀 How to Run the Project
 1️⃣ Clone the repository
