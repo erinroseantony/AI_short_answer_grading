@@ -14,7 +14,9 @@ The system is built as an interactive web application using Streamlit.
 🌐 Interactive web UI using Streamlit
 ⚡ Fast and lightweight inference
 
-🏗️ System Architecture
+## 🏗️ System Architecture
+
+```text
 Student Answer + Reference Answer
             ↓
    Text Embedding (Sentence-BERT)
@@ -23,11 +25,11 @@ Student Answer + Reference Answer
             ↓
    Keyword Matching Score
             ↓
-     Hybrid Score Calculation
+   Hybrid Score Calculation
             ↓
    Marks + Feedback Generation
             ↓
-      Streamlit Web Interface
+   Streamlit Web Interface
       
 🛠️ Tech Stack
 Programming Language: Python
@@ -38,7 +40,7 @@ Core Concepts: NLP, Semantic Similarity, Feature Engineering
 
 ## 📂 Project Structure
 
-AI_Short_Answer_Grading/
+AI_Short_Answer_Grading
 
 - app.py (Main application file)
 - requirements.txt (Dependencies)
